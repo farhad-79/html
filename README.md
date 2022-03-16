@@ -1,4 +1,2 @@
 # html
 farhad
-zahiri
-zaynalhajelo
